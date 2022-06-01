@@ -1,6 +1,11 @@
-# [name]
+<div align="center">
+  <h1>💪 typescript-starter</h1>
+  <p>TypeScript starter packed with useful development features.</p>
+</div>
 
-[![NPM version](https://img.shields.io/npm/v/[name]?color=a1b858&label=)](https://www.npmjs.com/package/[name])
+# pkg-name
+
+[![NPM version](https://img.shields.io/npm/v/pkg-name?color=a1b858&label=)](https://www.npmjs.com/package/pkg-name)
 
 ## License
 
